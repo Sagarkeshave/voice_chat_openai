@@ -3,3 +3,4 @@ speechrecognition==3.10
 openai==0.28
 gTTS==2.4
 pyaudio==0.2.13
+_____ 
