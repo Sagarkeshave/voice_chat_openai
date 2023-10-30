@@ -33,7 +33,7 @@ api_key = st.text_input("Enter your OpenAI API key (without quotes) :", key="API
 if api_key:
     openai.api_key = api_key
     x = 3
-    st.write(f"Limited for{x} responses")
+    st.write(f"Limited for {x} responses")
     # Streamlit app logic
     for i in range(x):  # Limited for n responses
 
