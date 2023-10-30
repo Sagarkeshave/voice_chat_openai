@@ -2,3 +2,4 @@ streamlit==1.28
 speechrecognition==3.10
 openai==0.28
 gTTS==2.4
+PyAudio==0.2.13
