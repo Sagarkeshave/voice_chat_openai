@@ -12,8 +12,9 @@ A simple application that enables voice interaction with OpenAI's GPT-3.5 Turbo.
 
 ## Demo
 
+[Watch a Demo Video](https://www.loom.com/share/bfe4213c4c74458da96735f3696718d3)
 
-
+<br>
 
 1. Clone the repository:
    ```sh
